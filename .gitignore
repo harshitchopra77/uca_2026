@@ -1,2 +1,8 @@
-*.exe*.out*.o*.log*.class
+*.exe
+*.out
+*.o
+*.log
+*.class
+
+*.vscode
 
